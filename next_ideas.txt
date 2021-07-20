@@ -1,0 +1,8 @@
+- scrap emails
+- scrap C(opyright) year of website
+- scrap if website is responsive 
+- scrap website possition in google
+
+
+Could be also:
+If the tool is for selling websites it could also generate automatic email text and send it to potential clients. 
